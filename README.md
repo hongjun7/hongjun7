@@ -15,8 +15,3 @@
 <a href="mailto:hongjun.jang7@gmail.com">
 	<img align="left" alt="Hongjun Jang" width="20px" src="https://github.com/hongjun7/hongjun7/blob/main/icons/gmail.svg" />
 </a>
-
-<br> <p></p>
-
-<a href="https://solved.ac/h0ngjun7"> <img align="left" src="http://mazassumnida.wtf/api/generate_badge?boj=h0ngjun7" alt="h0ngjun7" /> </a>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hongjun7&layout=compact)
