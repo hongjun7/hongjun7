@@ -1,4 +1,4 @@
-#### Research Engineer @ <a href="https://research.samsung.com/">Samsung Research</a>
+<b> Research Engineer <a href="https://research.samsung.com/">@Samsung Research</a> </b>
 
 <a href="https://www.linkedin.com/in/hongjun-jang-2741a191/">
 	<img align="left" alt="Hongjun Jang" width="20px" src="https://github.com/hongjun7/hongjun7/blob/main/icons/linkedin.svg" />
